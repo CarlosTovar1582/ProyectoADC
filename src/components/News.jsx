@@ -288,7 +288,7 @@ export default function News() {
                 Tablero para maquina horno con tiempo de trabajo de resistencia de calor
               </p>
                 <div className='mx-auto bg-black h-96 w-96 items-center justify-center rounded-3xl'> 
-                  <ReactPlayer
+                 {/*  <ReactPlayer
                   url={require('../videos/tablero.mp4')}
                   width='100%'
                   height='100%'
@@ -297,6 +297,7 @@ export default function News() {
                   muted               
                       
                   />
+                   */ }
                   </div>
                 </div>
             <div className="w-full lg:max-w-xl lg:flex-auto">
@@ -308,7 +309,7 @@ export default function News() {
                 Este video muestra como se controla por web nuestros procesos de sirena.
               </p>
               <div className='mx-auto bg-black h-96 w-96 items-center justify-center rounded-3xl'> 
-                  <ReactPlayer
+                {/* <ReactPlayer
                   url={require('../videos/pantalla_tablero.mp4')}
                   width='100%'
                   height='100%'
@@ -317,6 +318,7 @@ export default function News() {
                   muted               
                       
                   />
+               */ }
                   </div>
             </div>
            
