@@ -57,7 +57,7 @@ function App() {
 
         {/* https://www.npmjs.com/package/react-floating-whatsapp  */}
 
-        <div className='mt-20'><Body/></div>
+       
         <div><Footer/></div> 
         {/* https://www.npmjs.com/package/react-floating-whatsapp  completo 23/06/2024*/}
 
